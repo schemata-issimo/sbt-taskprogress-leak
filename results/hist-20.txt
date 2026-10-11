@@ -1,0 +1,103 @@
+91626:
+ num     #instances         #bytes  class name (module)
+-------------------------------------------------------
+   1:        251923       22690312  [B (java.base@21.0.11)
+   2:         93670       13921416  [Ljava.lang.Object; (java.base@21.0.11)
+   3:        154801       11145672  java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask (java.base@21.0.11)
+   4:        246940        7902080  sbt.internal.util.Init$ScopedKey
+   5:        216795        6937440  sbt.Scope
+   6:        264326        6343824  sbt.internal.util.TypeFunctions$FunctionOps$$anon$6
+   7:        197235        6311520  sbt.internal.util.Init$Apply
+   8:        249691        5992584  java.lang.String (java.base@21.0.11)
+   9:        196090        4706160  sbt.internal.util.Init$GetValue
+  10:        142299        4553568  java.util.concurrent.FutureTask (java.base@21.0.11)
+  11:         78039        4370184  scala.collection.immutable.Vector
+  12:        175002        4200048  scala.Tuple2
+  13:        118276        3784832  scala.collection.immutable.HashMap$HashMap1
+  14:        119144        2859456  sbt.ProjectRef
+  15:        110362        2648688  java.util.concurrent.Executors$RunnableAdapter (java.base@21.0.11)
+  16:        110301        2647224  java.util.concurrent.LinkedBlockingQueue$Node (java.base@21.0.11)
+  17:         82119        2627808  java.util.concurrent.ConcurrentHashMap$Node (java.base@21.0.11)
+  18:        104859        2516616  sbt.Info
+  19:        104769        2514456  sbt.Task
+  20:         77896        2492672  sbt.internal.util.Init$Setting
+  21:        102980        2471520  scala.collection.immutable.HashSet$HashSet1
+  22:         97409        2337816  sbt.internal.TaskProgress$$Lambda/0x000000040184fbc0
+  23:        129961        2079376  sbt.Select
+  24:         85175        2044200  scala.Function1$$Lambda/0x00000004012ee360
+  25:         15743        1816808  java.lang.Class (java.base@21.0.11)
+  26:         72629        1743096  scala.collection.immutable.$colon$colon
+  27:         28467        1594152  sbt.internal.util.ConsoleAppender
+  28:         31587        1516176  scala.reflect.io.FileZipArchive$LeakyEntry
+  29:          8405        1404544  [Ljdk.internal.vm.FillerElement; (java.base@21.0.11)
+  30:         55413        1329912  sbt.internal.util.KCons
+  31:         54416        1305984  sbt.Mapped
+  32:         39325        1258400  java.util.HashMap$Node (java.base@21.0.11)
+  33:         32407        1151192  [Lscala.collection.immutable.HashMap;
+  34:          4630        1097232  [I (java.base@21.0.11)
+  35:         42652        1023648  sbt.Pure
+  36:         27335         958384  [Lscala.collection.immutable.HashSet;
+  37:           308         933408  [Ljava.util.concurrent.ConcurrentHashMap$Node; (java.base@21.0.11)
+  38:         52885         846160  sbt.internal.util.BasicAttributeMap
+  39:         24837         794784  sbt.internal.util.Init$Compiled
+  40:         33078         793872  scala.collection.mutable.DefaultEntry
+  41:         32407         777768  scala.collection.immutable.HashMap$HashTrieMap
+  42:         47900         766400  sbt.internal.util.AList$$anon$4
+  43:         43021         688336  java.util.concurrent.atomic.AtomicReference (java.base@21.0.11)
+  44:         28468         683232  sbt.internal.util.ConsoleAppender$Properties$$anon$1
+  45:         41812         668992  scala.collection.immutable.Set$Set1
+  46:         27335         656040  scala.collection.immutable.HashSet$HashTrieSet
+  47:         40843         653488  scala.Some
+  48:         40338         645408  java.lang.Object (java.base@21.0.11)
+  49:         26766         642384  sbt.internal.util.Init$Setting$$Lambda/0x0000000401737c00
+  50:           271         624240  [C (java.base@21.0.11)
+  51:         38344         613504  sbt.std.TaskExtra$$Lambda/0x000000040178dc90
+  52:         18376         588032  java.io.File (java.base@21.0.11)
+  53:         14235         569400  java.io.PrintWriter (java.base@21.0.11)
+  54:         20877         501048  scala.collection.immutable.Map$Map1
+  55:         10223         490704  java.lang.invoke.MemberName (java.base@21.0.11)
+  56:         15148         484736  scala.collection.immutable.Map$Map2
+  57:         14232         455424  sbt.internal.io.DeferredWriter
+  58:           642         419056  [Ljava.util.HashMap$Node; (java.base@21.0.11)
+  59:         15997         383928  scala.Tuple3
+  60:         15476         371424  sbt.internal.util.$tilde$greater$$anon$7
+  61:         14327         343848  sbt.util.LoggerContext$LoggerContextImpl$Log
+  62:         14233         341592  sbt.internal.util.ConsoleOut$$anon$6
+  63:         14207         340968  sbt.Def$$$Lambda/0x0000000401743930
+  64:         14205         340920  sbt.internal.LogManager$$$Lambda/0x0000000401875a58
+  65:          5272         337408  java.util.LinkedHashMap (java.base@21.0.11)
+  66:          6899         331152  java.util.concurrent.ConcurrentHashMap$TreeNode (java.base@21.0.11)
+  67:         19170         306720  sbt.std.TaskExtra$$$Lambda/0x0000000401794fc8
+  68:          1157         294224  [Lscala.collection.mutable.HashEntry;
+  69:          6282         251280  java.lang.invoke.MethodType (java.base@21.0.11)
+  70:          2785         245080  sbt.librarymanagement.ModuleReport
+  71:          6104         244160  sbt.internal.util.Init$DefaultSetting$$anon$8
+  72:          5828         233120  scala.Tuple6
+  73:         14232         227712  sbt.std.Streams$$anon$2$$anon$3$$Lambda/0x0000000401872700
+  74:         14210         227360  sbt.util.Show$$$Lambda/0x0000000401611dc8
+  75:          5359         214360  java.lang.invoke.DirectMethodHandle (java.base@21.0.11)
+  76:          1502         204272  scala.reflect.internal.Symbols$ModuleClassSymbol
+  77:         12597         201552  sbt.internal.TaskProgress$$Lambda/0x000000040191e960
+  78:          6282         201024  jdk.internal.util.WeakReferenceKey (java.base@21.0.11)
+  79:          8026         192624  sbt.internal.util.LinePosition
+  80:          5953         190496  scala.Tuple4
+  81:          7802         187248  scala.collection.immutable.Set$Set2
+  82:          2848         182272  java.net.URL (java.base@21.0.11)
+  83:          7410         177840  java.lang.invoke.ResolvedMethodName (java.base@21.0.11)
+  84:          1509         169008  scala.reflect.internal.Symbols$ClassSymbol
+  85:          3007         168392  sbt.librarymanagement.ModuleID
+  86:          6814         163536  sbt.internal.util.Init$Value
+  87:          5079         162528  scala.reflect.internal.Symbols$TypeHistory
+  88:          5312         155104  [Ljava.lang.Class; (java.base@21.0.11)
+  89:          8982         143712  lmcoursier.definitions.Configuration
+  90:          2959         142032  sbt.librarymanagement.Artifact
+  91:          4418         141376  scala.Tuple5
+  92:          4408         141056  java.util.concurrent.locks.ReentrantLock$NonfairSync (java.base@21.0.11)
+  93:          5738         137712  sbt.internal.util.Init$TransformCapture
+  94:          5605         134520  sbt.internal.util.appmacro.Instance$Composed$$Lambda/0x0000000401332b48
+  95:          2098         134272  java.util.concurrent.ConcurrentHashMap (java.base@21.0.11)
+  96:          3304         132160  java.io.BufferedWriter (java.base@21.0.11)
+  97:             1         131088  [Lscala.reflect.internal.Names$TermName;
+  98:             1         131088  [Lscala.reflect.internal.Names$TypeName;
+  99:          1613         129040  scala.reflect.internal.Symbols$ModuleSymbol
+ 100:          4798         115152  scala.collection.immutable.Set$Set3
